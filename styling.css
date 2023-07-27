@@ -215,3 +215,8 @@ li {
 
 /* Footer Section*/
 
+.footer {
+    text-align: center;
+    color: #F9FAF8;
+    padding: 40px;
+}
