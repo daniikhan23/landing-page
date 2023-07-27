@@ -147,3 +147,33 @@ li {
     width: 150px;
     height: 150px;
 }
+
+/* Quote Section */
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 50px 0;
+}
+
+.quote {
+    width: 700px;
+    font-size: 36px;
+    font-weight: 100;
+    color: #1F2937;
+    word-wrap: break-word;
+    font-style: italic;
+}
+
+.author {
+    font-weight: 900;
+    margin-left: 500px;
+}
+
+/* Sign up Section*/
+
+
+
+/* Footer Section*/
